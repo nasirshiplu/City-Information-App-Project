@@ -1,0 +1,9 @@
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\bin\Debug\CityInfprmationApp.exe.config
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\bin\Debug\CityInfprmationApp.exe
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\obj\Debug\CityInfprmationApp.CityInformationUI.resources
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\obj\Debug\CityInfprmationApp.Properties.Resources.resources
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\obj\Debug\CityInfprmationAppProject.csproj.GenerateResource.Cache
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\obj\Debug\CityInfprmationApp.exe
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\obj\Debug\CityInfprmationApp.pdb
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\bin\Debug\CityInfprmationApp.pdb
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 14\16.05.2015\CityInfprmationApp\CityInfprmationApp\obj\Debug\CityInfprmationAppProject.csprojResolveAssemblyReference.cache
